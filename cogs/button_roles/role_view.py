@@ -1,4 +1,4 @@
-from utils.utils import custom_id
+from utils import custom_id
 import nextcord
 import config
 
